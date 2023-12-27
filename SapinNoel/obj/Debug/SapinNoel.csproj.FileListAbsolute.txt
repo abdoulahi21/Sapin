@@ -1,0 +1,7 @@
+D:\LICENCE3GL\CSHARP\SapinNoel\SapinNoel\bin\Debug\SapinNoel.exe.config
+D:\LICENCE3GL\CSHARP\SapinNoel\SapinNoel\bin\Debug\SapinNoel.exe
+D:\LICENCE3GL\CSHARP\SapinNoel\SapinNoel\bin\Debug\SapinNoel.pdb
+D:\LICENCE3GL\CSHARP\SapinNoel\SapinNoel\obj\Debug\SapinNoel.csproj.AssemblyReference.cache
+D:\LICENCE3GL\CSHARP\SapinNoel\SapinNoel\obj\Debug\SapinNoel.csproj.CoreCompileInputs.cache
+D:\LICENCE3GL\CSHARP\SapinNoel\SapinNoel\obj\Debug\SapinNoel.exe
+D:\LICENCE3GL\CSHARP\SapinNoel\SapinNoel\obj\Debug\SapinNoel.pdb
